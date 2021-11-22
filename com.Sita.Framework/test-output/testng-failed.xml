@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.sita.testcases.Deligating_Amenities">
+        <methods>
+          <include name="AssigntoFHE"/>
+          <include name="Click_on_BackButton1"/>
+          <include name="ConfirmButton"/>
+          <include name="navigate_to_homepage_click_on_ArrowButton"/>
+          <include name="setUpSuite"/>
+          <include name="setup"/>
+          <include name="Click_on_BackButton"/>
+          <include name="closeBrowser"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- com.sita.testcases.Deligating_Amenities -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
