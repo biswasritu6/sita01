@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="36" passed="36" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Setting up reports and Test is getting Ready]]>
+    </line>
+    <line>
+      <![CDATA[Setting Done- Test Will start now]]>
+    </line>
+    <line>
+      <![CDATA[Trying to start Browser and Getting application ready]]>
+    </line>
+    <line>
+      <![CDATA[Browser and Application is up and running]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed >>> Reports Generated]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-12-09T05:26:36Z" name="Default suite" finished-at="2021-12-09T05:28:39Z" duration-ms="122169">
+    <groups>
+    </groups>
+    <test started-at="2021-12-09T05:26:36Z" name="Default test" finished-at="2021-12-09T05:28:39Z" duration-ms="122169">
+      <class name="com.sita.testcases.Deligation_of_amenities_for_each_BO">
+        <test-method is-config="true" signature="ExtentReportsetUp()[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:56:35Z" name="ExtentReportsetUp" finished-at="2021-12-09T10:56:36Z" duration-ms="1839" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up reports and Test is getting Ready]]>
+            </line>
+            <line>
+              <![CDATA[Setting Done- Test Will start now]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExtentReportsetUp -->
+        <test-method is-config="true" signature="openingbrowser()[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:56:36Z" name="openingbrowser" finished-at="2021-12-09T10:56:53Z" duration-ms="16507" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to start Browser and Getting application ready]]>
+            </line>
+            <line>
+              <![CDATA[Browser and Application is up and running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingbrowser -->
+        <test-method signature="loginApp()[pri:1, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:56:53Z" name="loginApp" finished-at="2021-12-09T10:56:55Z" duration-ms="1828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:56:55Z" name="Screenshot" finished-at="2021-12-09T10:56:57Z" duration-ms="1750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=Deligation_of_amenities_for_each_BO.loginApp()[pri:1, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="navigate_to_homepage_click_on_ArrowButton1()[pri:2, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:56:57Z" name="navigate_to_homepage_click_on_ArrowButton1" finished-at="2021-12-09T10:57:08Z" duration-ms="11616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_homepage_click_on_ArrowButton1 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:08Z" name="Screenshot" finished-at="2021-12-09T10:57:08Z" duration-ms="265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigate_to_homepage_click_on_ArrowButton1 status=SUCCESS method=Deligation_of_amenities_for_each_BO.navigate_to_homepage_click_on_ArrowButton1()[pri:2, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="ConfirmButton()[pri:3, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:08Z" name="ConfirmButton" finished-at="2021-12-09T10:57:11Z" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmButton -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:11Z" name="Screenshot" finished-at="2021-12-09T10:57:11Z" duration-ms="259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ConfirmButton status=SUCCESS method=Deligation_of_amenities_for_each_BO.ConfirmButton()[pri:3, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="AssignFHE()[pri:4, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:11Z" name="AssignFHE" finished-at="2021-12-09T10:57:15Z" duration-ms="3931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssignFHE -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:15Z" name="Screenshot" finished-at="2021-12-09T10:57:15Z" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssignFHE status=SUCCESS method=Deligation_of_amenities_for_each_BO.AssignFHE()[pri:4, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Click_on_BackButton()[pri:5, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:15Z" name="Click_on_BackButton" finished-at="2021-12-09T10:57:16Z" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_BackButton -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:16Z" name="Screenshot" finished-at="2021-12-09T10:57:16Z" duration-ms="225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Click_on_BackButton status=SUCCESS method=Deligation_of_amenities_for_each_BO.Click_on_BackButton()[pri:5, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Logout_Superviser()[pri:6, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:16Z" name="Logout_Superviser" finished-at="2021-12-09T10:57:20Z" duration-ms="3569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout_Superviser -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:20Z" name="Screenshot" finished-at="2021-12-09T10:57:20Z" duration-ms="218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logout_Superviser status=SUCCESS method=Deligation_of_amenities_for_each_BO.Logout_Superviser()[pri:6, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="loginFHE()[pri:7, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:20Z" name="loginFHE" finished-at="2021-12-09T10:57:21Z" duration-ms="1061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFHE -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:21Z" name="Screenshot" finished-at="2021-12-09T10:57:22Z" duration-ms="416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginFHE status=SUCCESS method=Deligation_of_amenities_for_each_BO.loginFHE()[pri:7, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="ArrowButtonofFHE()[pri:8, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:22Z" name="ArrowButtonofFHE" finished-at="2021-12-09T10:57:28Z" duration-ms="6340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArrowButtonofFHE -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:28Z" name="Screenshot" finished-at="2021-12-09T10:57:28Z" duration-ms="149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ArrowButtonofFHE status=SUCCESS method=Deligation_of_amenities_for_each_BO.ArrowButtonofFHE()[pri:8, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="BookingCentre()[pri:9, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:28Z" name="BookingCentre" finished-at="2021-12-09T10:57:30Z" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingCentre -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:30Z" name="Screenshot" finished-at="2021-12-09T10:57:31Z" duration-ms="150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BookingCentre status=SUCCESS method=Deligation_of_amenities_for_each_BO.BookingCentre()[pri:9, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Amenities()[pri:10, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:31Z" name="Amenities" finished-at="2021-12-09T10:57:31Z" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amenities -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:31Z" name="Screenshot" finished-at="2021-12-09T10:57:31Z" duration-ms="164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Amenities status=SUCCESS method=Deligation_of_amenities_for_each_BO.Amenities()[pri:10, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Amenities_List()[pri:11, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:31Z" name="Amenities_List" finished-at="2021-12-09T10:57:33Z" duration-ms="1622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amenities_List -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:33Z" name="Screenshot" finished-at="2021-12-09T10:57:33Z" duration-ms="197" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Amenities_List status=SUCCESS method=Deligation_of_amenities_for_each_BO.Amenities_List()[pri:11, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Deligation()[pri:12, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:33Z" name="Deligation" finished-at="2021-12-09T10:57:34Z" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deligation -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:34Z" name="Screenshot" finished-at="2021-12-09T10:57:35Z" duration-ms="223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Deligation status=SUCCESS method=Deligation_of_amenities_for_each_BO.Deligation()[pri:12, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Select_Amenities_save_and_confirm()[pri:13, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:35Z" name="Select_Amenities_save_and_confirm" finished-at="2021-12-09T10:57:42Z" duration-ms="7290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Amenities_save_and_confirm -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:42Z" name="Screenshot" finished-at="2021-12-09T10:57:42Z" duration-ms="275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Select_Amenities_save_and_confirm status=SUCCESS method=Deligation_of_amenities_for_each_BO.Select_Amenities_save_and_confirm()[pri:13, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Click_on_BackButton1()[pri:14, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:42Z" name="Click_on_BackButton1" finished-at="2021-12-09T10:57:45Z" duration-ms="2640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_BackButton1 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:45Z" name="Screenshot" finished-at="2021-12-09T10:57:45Z" duration-ms="153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Click_on_BackButton1 status=SUCCESS method=Deligation_of_amenities_for_each_BO.Click_on_BackButton1()[pri:14, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Logout_FHE()[pri:15, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:45Z" name="Logout_FHE" finished-at="2021-12-09T10:57:48Z" duration-ms="2696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout_FHE -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:48Z" name="Screenshot" finished-at="2021-12-09T10:57:48Z" duration-ms="428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logout_FHE status=SUCCESS method=Deligation_of_amenities_for_each_BO.Logout_FHE()[pri:15, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="login_as_Z_Mumbai()[pri:16, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:48Z" name="login_as_Z_Mumbai" finished-at="2021-12-09T10:57:50Z" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_as_Z_Mumbai -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:50Z" name="Screenshot" finished-at="2021-12-09T10:57:50Z" duration-ms="172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_as_Z_Mumbai status=SUCCESS method=Deligation_of_amenities_for_each_BO.login_as_Z_Mumbai()[pri:16, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_Arrow_Button_BO_go_to_amenities_tab_lock_file1()[pri:17, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:50Z" name="click_Arrow_Button_BO_go_to_amenities_tab_lock_file1" finished-at="2021-12-09T10:57:58Z" duration-ms="8385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_Arrow_Button_BO_go_to_amenities_tab_lock_file1 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:58Z" name="Screenshot" finished-at="2021-12-09T10:57:58Z" duration-ms="176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_Arrow_Button_BO_go_to_amenities_tab_lock_file1 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_Arrow_Button_BO_go_to_amenities_tab_lock_file1()[pri:17, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="lock_file()[pri:18, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:57:58Z" name="lock_file" finished-at="2021-12-09T10:58:00Z" duration-ms="1707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lock_file -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:00Z" name="Screenshot" finished-at="2021-12-09T10:58:00Z" duration-ms="177" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lock_file status=SUCCESS method=Deligation_of_amenities_for_each_BO.lock_file()[pri:18, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_on_accecpt_all1()[pri:19, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:00Z" name="click_on_accecpt_all1" finished-at="2021-12-09T10:58:03Z" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_accecpt_all1 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:03Z" name="Screenshot" finished-at="2021-12-09T10:58:03Z" duration-ms="128" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_accecpt_all1 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_on_accecpt_all1()[pri:19, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_on_accecpt_popup1()[pri:20, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:03Z" name="click_on_accecpt_popup1" finished-at="2021-12-09T10:58:03Z" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_accecpt_popup1 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:03Z" name="Screenshot" finished-at="2021-12-09T10:58:04Z" duration-ms="191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_accecpt_popup1 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_on_accecpt_popup1()[pri:20, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Click_on_BackButton2()[pri:21, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:04Z" name="Click_on_BackButton2" finished-at="2021-12-09T10:58:05Z" duration-ms="1630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_BackButton2 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:05Z" name="Screenshot" finished-at="2021-12-09T10:58:05Z" duration-ms="129" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Click_on_BackButton2 status=SUCCESS method=Deligation_of_amenities_for_each_BO.Click_on_BackButton2()[pri:21, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Logout_Z_Mumbai()[pri:22, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:05Z" name="Logout_Z_Mumbai" finished-at="2021-12-09T10:58:09Z" duration-ms="3736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout_Z_Mumbai -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:09Z" name="Screenshot" finished-at="2021-12-09T10:58:09Z" duration-ms="229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logout_Z_Mumbai status=SUCCESS method=Deligation_of_amenities_for_each_BO.Logout_Z_Mumbai()[pri:22, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="login_as_Z_bhubneswar()[pri:23, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:09Z" name="login_as_Z_bhubneswar" finished-at="2021-12-09T10:58:11Z" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_as_Z_bhubneswar -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:11Z" name="Screenshot" finished-at="2021-12-09T10:58:11Z" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_as_Z_bhubneswar status=SUCCESS method=Deligation_of_amenities_for_each_BO.login_as_Z_bhubneswar()[pri:23, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_Arrow_Button_BO_go_to_amenities_tab2()[pri:24, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:11Z" name="click_Arrow_Button_BO_go_to_amenities_tab2" finished-at="2021-12-09T10:58:19Z" duration-ms="7472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_Arrow_Button_BO_go_to_amenities_tab2 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:19Z" name="Screenshot" finished-at="2021-12-09T10:58:19Z" duration-ms="97" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_Arrow_Button_BO_go_to_amenities_tab2 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_Arrow_Button_BO_go_to_amenities_tab2()[pri:24, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="lock_file1()[pri:25, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:19Z" name="lock_file1" finished-at="2021-12-09T10:58:20Z" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lock_file1 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:20Z" name="Screenshot" finished-at="2021-12-09T10:58:20Z" duration-ms="82" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lock_file1 status=SUCCESS method=Deligation_of_amenities_for_each_BO.lock_file1()[pri:25, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_on_accecpt_all2()[pri:26, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:20Z" name="click_on_accecpt_all2" finished-at="2021-12-09T10:58:21Z" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_accecpt_all2 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:21Z" name="Screenshot" finished-at="2021-12-09T10:58:21Z" duration-ms="98" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_accecpt_all2 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_on_accecpt_all2()[pri:26, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_on_accecpt_popup2()[pri:27, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:21Z" name="click_on_accecpt_popup2" finished-at="2021-12-09T10:58:21Z" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_accecpt_popup2 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:21Z" name="Screenshot" finished-at="2021-12-09T10:58:21Z" duration-ms="104" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_accecpt_popup2 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_on_accecpt_popup2()[pri:27, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Click_on_BackButton3()[pri:28, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:21Z" name="Click_on_BackButton3" finished-at="2021-12-09T10:58:23Z" duration-ms="1160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_BackButton3 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:23Z" name="Screenshot" finished-at="2021-12-09T10:58:23Z" duration-ms="100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Click_on_BackButton3 status=SUCCESS method=Deligation_of_amenities_for_each_BO.Click_on_BackButton3()[pri:28, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Logout_BO_Z_Bhubneswar()[pri:29, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:23Z" name="Logout_BO_Z_Bhubneswar" finished-at="2021-12-09T10:58:25Z" duration-ms="2773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout_BO_Z_Bhubneswar -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:25Z" name="Screenshot" finished-at="2021-12-09T10:58:26Z" duration-ms="93" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logout_BO_Z_Bhubneswar status=SUCCESS method=Deligation_of_amenities_for_each_BO.Logout_BO_Z_Bhubneswar()[pri:29, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="login_as_Z_Puri()[pri:30, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:26Z" name="login_as_Z_Puri" finished-at="2021-12-09T10:58:27Z" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_as_Z_Puri -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:27Z" name="Screenshot" finished-at="2021-12-09T10:58:27Z" duration-ms="114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_as_Z_Puri status=SUCCESS method=Deligation_of_amenities_for_each_BO.login_as_Z_Puri()[pri:30, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_Arrow_Button_BO_go_to_amenities_tab3()[pri:31, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:27Z" name="click_Arrow_Button_BO_go_to_amenities_tab3" finished-at="2021-12-09T10:58:31Z" duration-ms="4542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_Arrow_Button_BO_go_to_amenities_tab3 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:31Z" name="Screenshot" finished-at="2021-12-09T10:58:31Z" duration-ms="95" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_Arrow_Button_BO_go_to_amenities_tab3 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_Arrow_Button_BO_go_to_amenities_tab3()[pri:31, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="lock_file2()[pri:32, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:31Z" name="lock_file2" finished-at="2021-12-09T10:58:32Z" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lock_file2 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:32Z" name="Screenshot" finished-at="2021-12-09T10:58:32Z" duration-ms="80" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lock_file2 status=SUCCESS method=Deligation_of_amenities_for_each_BO.lock_file2()[pri:32, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_on_accecpt_all3()[pri:33, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:32Z" name="click_on_accecpt_all3" finished-at="2021-12-09T10:58:33Z" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_accecpt_all3 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:33Z" name="Screenshot" finished-at="2021-12-09T10:58:33Z" duration-ms="90" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_accecpt_all3 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_on_accecpt_all3()[pri:33, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="click_on_accecpt_popup3()[pri:34, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:33Z" name="click_on_accecpt_popup3" finished-at="2021-12-09T10:58:34Z" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_accecpt_popup3 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:34Z" name="Screenshot" finished-at="2021-12-09T10:58:34Z" duration-ms="99" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_accecpt_popup3 status=SUCCESS method=Deligation_of_amenities_for_each_BO.click_on_accecpt_popup3()[pri:34, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Click_on_BackButton4()[pri:35, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:34Z" name="Click_on_BackButton4" finished-at="2021-12-09T10:58:35Z" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_BackButton4 -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:35Z" name="Screenshot" finished-at="2021-12-09T10:58:35Z" duration-ms="135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Click_on_BackButton4 status=SUCCESS method=Deligation_of_amenities_for_each_BO.Click_on_BackButton4()[pri:35, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method signature="Logout_Z_Puri()[pri:36, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:35Z" name="Logout_Z_Puri" finished-at="2021-12-09T10:58:38Z" duration-ms="2874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout_Z_Puri -->
+        <test-method is-config="true" signature="Screenshot(org.testng.ITestResult)[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:38Z" name="Screenshot" finished-at="2021-12-09T10:58:38Z" duration-ms="79" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logout_Z_Puri status=SUCCESS method=Deligation_of_amenities_for_each_BO.Logout_Z_Puri()[pri:36, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed >>> Reports Generated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.sita.testcases.Deligation_of_amenities_for_each_BO@7d9e8ef7]" started-at="2021-12-09T10:58:38Z" name="closeBrowser" finished-at="2021-12-09T10:58:39Z" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.sita.testcases.Deligation_of_amenities_for_each_BO -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

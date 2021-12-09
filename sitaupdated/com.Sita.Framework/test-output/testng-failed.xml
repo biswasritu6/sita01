@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.sita.testcases.Deligation_of_amenities_for_each_BO">
+        <methods>
+          <include name="ExtentReportsetUp"/>
+          <include name="lock_file1"/>
+          <include name="BookingCentre"/>
+          <include name="Logout_Superviser"/>
+          <include name="click_Arrow_Button_BO_go_to_amenities_tab_lock_file1"/>
+          <include name="click_on_accecpt_all1"/>
+          <include name="click_on_accecpt_all3"/>
+          <include name="click_on_accecpt_all2"/>
+          <include name="Click_on_BackButton1"/>
+          <include name="click_Arrow_Button_BO_go_to_amenities_tab3"/>
+          <include name="Click_on_BackButton4"/>
+          <include name="click_Arrow_Button_BO_go_to_amenities_tab2"/>
+          <include name="Click_on_BackButton2"/>
+          <include name="Select_Amenities_save_and_confirm"/>
+          <include name="Click_on_BackButton3"/>
+          <include name="navigate_to_homepage_click_on_ArrowButton1"/>
+          <include name="ConfirmButton"/>
+          <include name="Logout_Z_Mumbai"/>
+          <include name="lock_file"/>
+          <include name="click_on_accecpt_popup3"/>
+          <include name="login_as_Z_bhubneswar"/>
+          <include name="loginFHE"/>
+          <include name="Amenities_List"/>
+          <include name="click_on_accecpt_popup2"/>
+          <include name="Logout_BO_Z_Bhubneswar"/>
+          <include name="login_as_Z_Mumbai"/>
+          <include name="openingbrowser"/>
+          <include name="Logout_Z_Puri"/>
+          <include name="click_on_accecpt_popup1"/>
+          <include name="Click_on_BackButton"/>
+          <include name="Screenshot"/>
+          <include name="AssignFHE"/>
+          <include name="Logout_FHE"/>
+          <include name="login_as_Z_Puri"/>
+          <include name="Deligation"/>
+          <include name="lock_file2"/>
+          <include name="Amenities"/>
+          <include name="ArrowButtonofFHE"/>
+        </methods>
+      </class> <!-- com.sita.testcases.Deligation_of_amenities_for_each_BO -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
